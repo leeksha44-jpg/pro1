@@ -1,1 +1,1 @@
-# pro1
+print ("hello world")
